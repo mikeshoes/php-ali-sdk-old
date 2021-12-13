@@ -1,0 +1,15 @@
+.DS_Store
+.swp
+.idea
+.idea/*
+/vendor
+.env
+resources
+resources.ori
+composer.lock
+sync.js
+/wwwlogs
+/public/tmp/*
+.settings/
+.project
+.buildpath
