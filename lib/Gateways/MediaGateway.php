@@ -70,6 +70,7 @@ class MediaGateway
     public function setTempId($tempId)
     {
         $this->user_config->set('tmpid', $tempId);
+        return $this;
     }
 
     /**
